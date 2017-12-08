@@ -1,4 +1,4 @@
-# Ceci est un test
+# Voici la page d'acceuil 
 
 * test
 * test
