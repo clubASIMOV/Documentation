@@ -8,7 +8,7 @@ Ceci est la page officielle pour la documentation du club ASIMOV. Cette document
 
 Donc, **Markdown** est un langage de balisage. Son but est d'offrir une syntaxe facile a lire et a écrire pour la créations de documents. C'est avec ceci que la documentation du club ASIMOV sera formattée.
 
-[Cliquez ici pour apprendre comment utiliser Le Markdown de GitHub](https://i.imgur.com/KCSiWdG.png?1)
+[Cliquez ici pour apprendre comment utiliser Le Markdown de GitHub](http://138.197.130.130:5000/tuto-markdown)
 
 ## Le fonctionnement de ce site web
 
@@ -24,10 +24,6 @@ Ce site web utilise un systeme pour écrire de la documentation interactive en u
   - Finalement, vous pouvez enregistrer le document en cliquant sur **Save**. Votre document sera enregistré avec l'adresse suivant **"/{nom du fichier}"**
 3. Pour éditer un document préexistant, cliquez sur **Edit** dans la barre de navigation en haut.
 
-![Editer document](https://i.imgur.com/CwNLcZ9.png?1)
+![Editer document]()
 
-  - a gauche est le code préexistant, a droite, l'aperçu.
-  - Quand vous avez fini votre édition, cliquez sure **Save** et vos changements seront enregistrés
-
-&copy; Thomas Dion-Grondin
 
