@@ -21,7 +21,11 @@ Ceci est le tutoriel officiel pour l'utilisation de **GitHub Markdown** du club 
 ###### Ceci est une entête H6
 
 ```
+****
+
 ##### résultat
+
+****
 
 # Ceci est une entête H1
 ## Ceci est une entête H2
@@ -48,7 +52,11 @@ __ Ce texte sera également en gras __
 _ Vous **pouvez** bien sur les combiner _
 
 ```
+****
+
 ##### résultat
+
+****
 
 *Ce texte sera en italique*  
 _Ce texte sera également en italique_
@@ -76,7 +84,12 @@ __ Ce texte sera également en gras __
 _ Vous **pouvez** bien sur les combiner _
 
 ```
+
+****
+
 ##### résultat
+
+****
 
 *Ce texte sera en italique*  
 _Ce texte sera également en italique_
