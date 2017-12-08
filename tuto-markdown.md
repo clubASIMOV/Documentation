@@ -6,6 +6,11 @@ Ceci est le tutoriel officiel pour l'utilisation de **GitHub Markdown** du club 
 
 ### Les différentes entêtes
 
+| code | resultat |
+| --- | --- |
+| <p>``` <br /># Ceci est une entête H1 <br />## Ceci est une entête H2 <br /> ### Ceci est une entête H3 <br /> #### Ceci est une entête H4<br />##### Ceci est une entête H5 <br /> ###### Ceci est une entête H6 <br /> \`\``</p>| <h1> Ceci est une entête H1 <br /> <h2> Ceci est une entête H2 <br /> <h3> Ceci est une entête H3 <br /> <h4> Ceci est une entête H4 <br /> <h5> Ceci est une entête H5 <br /> <h6> Ceci est une entête H6 <br /> |
+
+
 
 ****
 
