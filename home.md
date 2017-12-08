@@ -8,6 +8,8 @@ Ceci est la page officielle pour la documentation du club ASIMOV. Cette document
 
 Donc, **Markdown** est un langage de balisage. Son but est d'offrir une syntaxe facile a lire et a écrire pour la créations de documents. C'est avec ceci que la documentation du club ASIMOV sera formattée.
 
+[Pour avoir un tutoriel sur Markdown, cliquez ici.](http://138.197.130.130:5000/tuto-markdown)
+
 ## Le fonctionnement de ce site web
 
 Ce site web utilise un systeme pour écrire de la documentation interactive en utilisant git.  [Voici le lien vers le projet sur GitHub.](https://github.com/scragg0x/realms-wiki)
