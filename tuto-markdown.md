@@ -127,8 +127,7 @@ function messageImportant() {
 }```
 ```
 
-
-
+&copy; Thomas Dion-Grondin
 
 
 
