@@ -13,7 +13,9 @@ Donc, **Markdown** est un langage de balisage. Son but est d'offrir une syntaxe 
 Ce site web utilise un systeme pour écrire de la documentation interactive en utilisant git.  [Voici le lien vers le projet sur GitHub.](http://google.com)
 
 * Tout d'abord, vous devez vous creer un compte pour pouvoir faire de l'étition sur ce serveur. Donc cliquez sur **Register** en haut a droite. Ensuite authentifiez-vous
-* Pour créer un nouveau document, cliquez sur **New** dans la barre de navigation en haut.
+* Pour créer un nouveau document, cliquez sur **New** dans la barre de navigation en haut. Vous allez etre redirigé sur la page suivante: 
+
+
 
 
 
