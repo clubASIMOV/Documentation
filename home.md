@@ -15,4 +15,4 @@ Ce site web utilise un systeme pour écrire de la documentation interactive en u
 * Tout d'abord, vous devez vous creer un compte pour pouvoir faire de l'étition sur ce serveur. Donc cliquez sur **Register** en haut a droite. Ensuite authentifiez-vous
 * Pour créer un nouveau document, cliquez sur **New** dans la barre de navigation en haut.
 
-![Nouvelle page](https://imgur.com/a/1jt3u)
+![Nouvelle page](https://i.imgur.com/n9PYwbb.png)
