@@ -1,3 +1,5 @@
+
+
 # Markdown
 Ceci est le tutoriel officiel pour l'utilisation de **GitHub Markdown** du club **ASIMOV**. s'il y a quelconques corrections a faire ou recommendations contactez cette email : 
 [tomtom9461@gmail.com](#tomtom9461@gmail.com)
@@ -6,15 +8,7 @@ Ceci est le tutoriel officiel pour l'utilisation de **GitHub Markdown** du club 
 
 ### Les différentes entêtes
 
-| code | resultat |
-| --- | --- |
-| <p>``` <br /># Ceci est une entête H1 <br />## Ceci est une entête H2 <br /> ### Ceci est une entête H3 <br /> #### Ceci est une entête H4<br />##### Ceci est une entête H5 <br /> ###### Ceci est une entête H6 <br /> \`\``</p>| <h1> Ceci est une entête H1 <br /> <h2> Ceci est une entête H2 <br /> <h3> Ceci est une entête H3 <br /> <h4> Ceci est une entête H4 <br /> <h5> Ceci est une entête H5 <br /> <h6> Ceci est une entête H6 <br /> |
-
-
-
 ****
-
-
 
 ```
 # Ceci est une entête H1
@@ -27,20 +21,48 @@ Ceci est le tutoriel officiel pour l'utilisation de **GitHub Markdown** du club 
 ```
 ****
 
+#### Affichage
+
+****
+
+# Ceci est une entête H1
+## Ceci est une entête H2
+### Ceci est une entête H3
+#### Ceci est une entête H4
+##### Ceci est une entête H5
+###### Ceci est une entête H6
+
+****
+
 ### Les emphases
 
 ****
 
 ```
-* Ce texte sera en italique *
-_ Ce texte sera également en italique _
+*Ce texte sera en italique*
+_Ce texte sera également en italique_
 
-** Ce texte sera en gras **
-__ Ce texte sera également en gras __
+**Ce texte sera en gras**
+__Ce texte sera également en gras__
 
-_ Vous **pouvez** bien sur les combiner _
+_Vous **pouvez** bien sur les combiner_
 
 ```
+****
+
+#### Affichage
+
+****
+
+*Ce texte sera en italique*  
+_Ce texte sera également en italique_
+
+**Ce texte sera en gras**  
+__Ce texte sera également en gras__
+
+_Vous **pouvez** bien sur les combiner_
+
+
 ****
 
 ### Les listes
@@ -60,6 +82,19 @@ _ Vous **pouvez** bien sur les combiner _
 
 ****
 
+
+##### Affichage
+
+****
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
+****
+
 #### Non ordonnées
 
 
@@ -74,6 +109,20 @@ _ Vous **pouvez** bien sur les combiner _
 
 ****
 
+
+##### Affichage
+
+****
+
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+
+
+****
+
 ### Les images
 
 ****
@@ -82,6 +131,13 @@ _ Vous **pouvez** bien sur les combiner _
 ![Logo de GitHub](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
 ```
+****
+
+#### Affichage
+
+****
+
+![Logo de GitHub](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
 **** 
 
@@ -93,6 +149,14 @@ _ Vous **pouvez** bien sur les combiner _
 [Lien vers Google](https://google.com)
 
 ```
+
+****
+
+#### Affichage
+
+****
+
+[Lien vers Google](https://google.com)
 
 ****
 
@@ -109,6 +173,19 @@ Voici des citations d'Albert Einstein:
 
 ```
 
+
+****
+
+#### Affichage
+
+****
+
+Voici des citations d'Albert Einstein:
+
+> “L’imagination est plus importante que le savoir.”  
+> “Il n’existe que deux choses infinies, l’univers et la bêtise humaine... mais pour l'univers, je n'ai pas de certitude absolue.”
+
+
 ****
 
 ### Code intégré dans du texte
@@ -122,6 +199,15 @@ En HTML, utiliser `<br />` pour faire un retour a la ligne.
 
 ****
 
+#### Affichage
+
+****
+
+En HTML, utiliser `<br />` pour faire un retour a la ligne.
+
+
+****
+
 ### Code en surbriance multilignes
 
 ****
@@ -130,8 +216,23 @@ En HTML, utiliser `<br />` pour faire un retour a la ligne.
 ```javascript
 function messageImportant() {
   alert('Javascript is the best')
-}```
+} ```
 ```
+
+****
+
+#### Affichage
+
+****
+
+```javascript
+function messageImportant() {
+  alert('Javascript is the best')
+}
+```
+
+****
+
 
 &copy; Thomas Dion-Grondin
 
